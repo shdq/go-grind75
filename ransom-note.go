@@ -1,3 +1,5 @@
+package main
+
 func canConstruct(ransomNote string, magazine string) bool {
 	m := [26]int{}
 
